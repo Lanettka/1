@@ -1,9 +1,3 @@
-<html>
-  <head>
-    <title>One-dimensional array</title>
-  </head>
-  <body>
-    <p>
 <?php
 $ups = array(1, 2, -5 , 3 , 4 , 5,  6);
 arsort($ups);
